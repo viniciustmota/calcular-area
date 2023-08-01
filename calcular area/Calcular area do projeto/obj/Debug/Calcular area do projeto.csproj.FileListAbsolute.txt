@@ -1,0 +1,10 @@
+C:\Users\Fatec\Desktop\calcular area\Calcular area do projeto\bin\Debug\Calcular area do projeto.exe.config
+C:\Users\Fatec\Desktop\calcular area\Calcular area do projeto\bin\Debug\Calcular area do projeto.exe
+C:\Users\Fatec\Desktop\calcular area\Calcular area do projeto\bin\Debug\Calcular area do projeto.pdb
+C:\Users\Fatec\Desktop\calcular area\Calcular area do projeto\obj\Debug\Calcular area do projeto.csprojAssemblyReference.cache
+C:\Users\Fatec\Desktop\calcular area\Calcular area do projeto\obj\Debug\Calcular_area_do_projeto.Form1.resources
+C:\Users\Fatec\Desktop\calcular area\Calcular area do projeto\obj\Debug\Calcular_area_do_projeto.Properties.Resources.resources
+C:\Users\Fatec\Desktop\calcular area\Calcular area do projeto\obj\Debug\Calcular area do projeto.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\calcular area\Calcular area do projeto\obj\Debug\Calcular area do projeto.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\calcular area\Calcular area do projeto\obj\Debug\Calcular area do projeto.exe
+C:\Users\Fatec\Desktop\calcular area\Calcular area do projeto\obj\Debug\Calcular area do projeto.pdb
